@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/disseny-basic/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/disseny-basic/","tags":["excalidraw","gardenEntry"],"dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 ---
