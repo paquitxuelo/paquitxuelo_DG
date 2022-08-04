@@ -3,8 +3,10 @@
 ---
 
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
+
+[[Atenció Ciutadana|AC]]
+ ^87iqE7qL
 
 # Text Elements
 tema 1 ^Mik53QHH
@@ -13,8 +15,9 @@ doc 1
  ^uThEVbRX
 
 
-[[Atenció Ciutadana|AC]]
- ^87iqE7qL
+
+
+
 
 %%
 # Drawing
@@ -97,8 +100,8 @@ doc 1
 			"y": -2079.951967294775,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fd7e14",
-			"width": 238.1973200413941,
-			"height": 80.50571443907744,
+			"width": 239,
+			"height": 81,
 			"seed": 416698351,
 			"groupIds": [
 				"OL3OHKJrfRRFwXVkTlVAC",
@@ -113,7 +116,7 @@ doc 1
 			"fontFamily": 3,
 			"text": "tema 1",
 			"rawText": "tema 1",
-			"baseline": 65.50571443907744,
+			"baseline": 66,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -164,8 +167,8 @@ doc 1
 			"y": -2001.4239750183729,
 			"strokeColor": "#000000",
 			"backgroundColor": "#15aabf",
-			"width": 179.2704568952653,
-			"height": 146.9021799558423,
+			"width": 180,
+			"height": 147,
 			"seed": 833225800,
 			"groupIds": [
 				"UkFhkZ03ThmqTXWCbSEXU",
@@ -180,7 +183,7 @@ doc 1
 			"fontFamily": 3,
 			"text": "doc 1\n",
 			"rawText": "doc 1\n",
-			"baseline": 132.9021799558423,
+			"baseline": 133,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -188,8 +191,8 @@ doc 1
 		},
 		{
 			"type": "rectangle",
-			"version": 824,
-			"versionNonce": 64331016,
+			"version": 916,
+			"versionNonce": 1440379768,
 			"isDeleted": false,
 			"id": "1ET-NBB_YTop0wvVpsttw",
 			"fillStyle": "solid",
@@ -198,8 +201,8 @@ doc 1
 			"roughness": 1,
 			"opacity": 40,
 			"angle": 0,
-			"x": 4194.155340179021,
-			"y": -1798.1161293369175,
+			"x": 5074.155601758261,
+			"y": -2425.6485869610806,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
 			"width": 155.5099297271106,
@@ -210,14 +213,14 @@ doc 1
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1659602384807,
+			"updated": 1659606708232,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 981,
-			"versionNonce": 1929791352,
+			"version": 1073,
+			"versionNonce": 1641193480,
 			"isDeleted": false,
 			"id": "87iqE7qL",
 			"fillStyle": "solid",
@@ -226,26 +229,26 @@ doc 1
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4212.825956227795,
-			"y": -1789.8985024853994,
+			"x": 5092.826217807035,
+			"y": -2417.4309601095624,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
-			"width": 119.81537146994879,
-			"height": 127.23756262295437,
+			"width": 119,
+			"height": 127,
 			"seed": 474534776,
 			"groupIds": [
 				"vL5-sY6XgLUr5PFmVhXiz"
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1659602367233,
+			"updated": 1659606708232,
 			"link": "[[Atenció ciutadana]]",
 			"locked": false,
 			"fontSize": 33.96729976664673,
 			"fontFamily": 3,
 			"text": "📍\n[[AC]]\n",
 			"rawText": "\n[[Atenció ciutadana|AC]]\n",
-			"baseline": 119.23756262295437,
+			"baseline": 119,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
