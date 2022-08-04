@@ -21,7 +21,7 @@
 - Domicili
 - Dades Personals
 
-## 
+## altres
 - Volants
 - Certificats
 
