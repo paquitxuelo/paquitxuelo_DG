@@ -24,8 +24,8 @@ doc 1
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 2012,
-			"versionNonce": 232335680,
+			"version": 2039,
+			"versionNonce": 1329826062,
 			"isDeleted": false,
 			"id": "0P3YHZVN",
 			"fillStyle": "solid",
@@ -34,8 +34,8 @@ doc 1
 			"roughness": 1,
 			"opacity": 70,
 			"angle": 0,
-			"x": 4732.74931374481,
-			"y": -2226.036060372734,
+			"x": 4650.9310764401225,
+			"y": -2257.854145089531,
 			"strokeColor": "#000000",
 			"backgroundColor": "#82c91e",
 			"width": 980.6674466280022,
@@ -46,14 +46,14 @@ doc 1
 			],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1659699355019,
+			"updated": 1659974088966,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 1786,
-			"versionNonce": 915999424,
+			"version": 1813,
+			"versionNonce": 1600116434,
 			"isDeleted": false,
 			"id": "MI2s-ijI53J7b7TH5V--w",
 			"fillStyle": "solid",
@@ -62,8 +62,8 @@ doc 1
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 4917.91056854613,
-			"y": -2128.646713104699,
+			"x": 4836.0923312414425,
+			"y": -2160.4647978214957,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fd7e14",
 			"width": 305.90683574158675,
@@ -75,14 +75,14 @@ doc 1
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1659699355019,
+			"updated": 1659974088966,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1450,
-			"versionNonce": 1667367232,
+			"version": 1477,
+			"versionNonce": 676017998,
 			"isDeleted": false,
 			"id": "Mik53QHH",
 			"fillStyle": "solid",
@@ -91,8 +91,8 @@ doc 1
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 4952.030899307114,
-			"y": -2100.7311682573863,
+			"x": 4870.212662002426,
+			"y": -2132.549252974183,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fd7e14",
 			"width": 239,
@@ -104,7 +104,7 @@ doc 1
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1659699355019,
+			"updated": 1659974088966,
 			"link": null,
 			"locked": false,
 			"fontSize": 67.58985320906598,
@@ -119,8 +119,8 @@ doc 1
 		},
 		{
 			"type": "rectangle",
-			"version": 2206,
-			"versionNonce": 2091496128,
+			"version": 2233,
+			"versionNonce": 1050750098,
 			"isDeleted": false,
 			"id": "HGOusKh6mI_uVWCKgXAcu",
 			"fillStyle": "solid",
@@ -129,8 +129,8 @@ doc 1
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 5327.503977399891,
-			"y": -2028.3091877785384,
+			"x": 5245.685740095203,
+			"y": -2060.127272495335,
 			"strokeColor": "#000000",
 			"backgroundColor": "#15aabf",
 			"width": 220.6003567326573,
@@ -142,14 +142,14 @@ doc 1
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1659699355019,
+			"updated": 1659974088967,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1838,
-			"versionNonce": 1108334912,
+			"version": 1865,
+			"versionNonce": 1489182094,
 			"isDeleted": false,
 			"id": "uThEVbRX",
 			"fillStyle": "solid",
@@ -158,8 +158,8 @@ doc 1
 			"roughness": 1,
 			"opacity": 80,
 			"angle": 0,
-			"x": 5349.149368654894,
-			"y": -2022.2031759809843,
+			"x": 5267.331131350206,
+			"y": -2054.021260697781,
 			"strokeColor": "#000000",
 			"backgroundColor": "#15aabf",
 			"width": 180,
@@ -171,7 +171,7 @@ doc 1
 			],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1659699355019,
+			"updated": 1659974088967,
 			"link": null,
 			"locked": false,
 			"fontSize": 61.25504170865139,
@@ -209,161 +209,6 @@ doc 1
 			"updated": 1659602249275,
 			"link": null,
 			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 27,
-			"versionNonce": 221791374,
-			"isDeleted": true,
-			"id": "F2sZuwjX",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 70,
-			"angle": 0,
-			"x": 4852.828895083319,
-			"y": -1591.5204347369508,
-			"strokeColor": "#000000",
-			"backgroundColor": "#82c91e",
-			"width": 562,
-			"height": 432,
-			"seed": 1369291456,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1659974004194,
-			"link": "[[Nota prova_DG]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 3,
-			"text": "---\ndg-home: true\ndg-publish: true\n---\n\n\n# A tope amb un títol per veure canvis\n\n\n\n**A veure si realment això publica alguna cosa**\n\n\n\n*A veure si realment això publica alguna cosa*\n\n\n[[disseny basic]",
-			"rawText": "
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
-
-# A tope amb un títol per veure canvis
-
-
-
-**A veure si realment això publica alguna cosa**
-
-
-
-*A veure si realment això publica alguna cosa*
-
-
-[[disseny basic]] ^821d45
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
-
-# A tope amb un títol per veure canvis
-
-
-
-**A veure si realment això publica alguna cosa**
-
-
-
-*A veure si realment això publica alguna cosa*
-
-
-[[disseny basic]] ^821d45
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
-
-# A tope amb un títol per veure canvis
-
-
-
-**A veure si realment això publica alguna cosa**
-
-
-
-*A veure si realment això publica alguna cosa*
-
-
-[[disseny basic]] ^821d45
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-
-
-# A tope amb un títol per veure canvis
-
-
-
-**A veure si realment això publica alguna cosa**
-
-
-
-*A veure si realment això publica alguna cosa*
-
-
-[[disseny basic]] ^821d45
-
-
-![[#^821d45]]
-
-
-</div></div>
-
-
-
-</div></div>
-
-
-
-</div></div>
-
-
-
-</div></div>
-",
-			"baseline": 428,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "---\ndg-home: true\ndg-publish: true\n---\n\n\n# A tope amb un títol per veure canvis\n\n\n\n**A veure si realment això publica alguna cosa**\n\n\n\n*A veure si realment això publica alguna cosa*\n\n\n[[disseny basic]"
 		}
 	],
 	"appState": {
