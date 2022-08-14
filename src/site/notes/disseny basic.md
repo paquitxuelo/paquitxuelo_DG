@@ -14,6 +14,9 @@ tema 1 ^Mik53QHH
 doc 1
  ^uThEVbRX
 
+[[Nota prova_DG|Nota prova_DG]]
+ ^R6jkuFzy
+
 %%
 # Drawing
 ```json
@@ -209,6 +212,76 @@ doc 1
 			"updated": 1659602249275,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "R6jkuFzy",
+			"type": "text",
+			"x": 4794.647132388007,
+			"y": -2352.6326694883337,
+			"width": 215,
+			"height": 51,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#82c91e",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 70,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1455499271,
+			"version": 21,
+			"versionNonce": 1816271687,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1660453276801,
+			"link": "[[Nota prova_DG]]",
+			"locked": false,
+			"text": "📍[[Nota prova_DG]]\n",
+			"rawText": "[[Nota prova_DG]]\n",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 47,
+			"containerId": null,
+			"originalText": "📍[[Nota prova_DG]]\n"
+		},
+		{
+			"type": "text",
+			"version": 20,
+			"versionNonce": 1041139977,
+			"isDeleted": true,
+			"id": "yTALGrLx",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 70,
+			"angle": 0,
+			"x": 4679.19264935578,
+			"y": -2356.1913477974567,
+			"strokeColor": "#000000",
+			"backgroundColor": "#82c91e",
+			"width": 181,
+			"height": 27,
+			"seed": 1233100105,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1660453258614,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 3,
+			"text": "📍[[nota_prova]]",
+			"rawText": "[[nota_prova]]",
+			"baseline": 22,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "📍[[nota_prova]]"
 		}
 	],
 	"appState": {
