@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/disseny-basic/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
+https://unpkg.com/@excalidraw/excalidraw/dist/
 [[Atenció Ciutadana|AC]]
  ^87iqE7qL
 
