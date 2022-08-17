@@ -17,8 +17,6 @@
 </div>
 
 
----
-
 
 [[Atenció Ciutadana|AC]]
  ^87iqE7qL
