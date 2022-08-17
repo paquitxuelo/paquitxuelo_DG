@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/disseny-basic/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
----
-
 
 [[Atenció Ciutadana|AC]]
  ^87iqE7qL
