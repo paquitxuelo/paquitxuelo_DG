@@ -6,9 +6,7 @@
 # Alta
 
 
-**[[Nota prova_DG|hola]]**
-
-
+[[Nota prova_DG|hola]]
 
 [[Nota prova_DG|Nota prova_DG]]
 
