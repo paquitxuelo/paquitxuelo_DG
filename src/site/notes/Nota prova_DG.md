@@ -14,8 +14,4 @@
 
 
 
-
-<iframe 
-		border=0 frameborder=0 height=1000 width=400
-		src="https://excalidraw.com/#json=OBhIZbgimCL1WcTx9TYJN,mmHQHciroUZewRBe9JYS3A"></iframe>
  
